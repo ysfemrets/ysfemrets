@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf Emre Taşdelen</h1>
-<h3 align="center">I'm currently working on cyber security</h3>
+<h3 align="center">I'm currently working on python and cyber security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfemrets&label=Profile%20views&color=0e75b6&style=flat" alt="ysfemrets" /> </p>
 
